@@ -1,5 +1,3 @@
-THIS IS FIX FOR THE NEW DISCORD UPDATE
-
 <h1 align="center">Boreal</h1>
 <p align="center">
   <img alt="Preview" width="860" alt="preview" src="https://i.imgur.com/xtQflHh.jpg">

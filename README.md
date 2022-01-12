@@ -1,1 +1,1 @@
-Just trying to learn a bit of CSS by making a Discord theme.
+THIS IS FIX FOR THE NEW DISCORD UPDATE
