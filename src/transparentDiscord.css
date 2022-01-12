@@ -18,6 +18,7 @@
 /*Modifies the background*/
 #app-mount::before {
     content: "";
+	background: url('https://www.zupimages.net/up/22/01/45dg.png');
     background: var(--background-image);
     background-position: center;
     background-size: cover;
