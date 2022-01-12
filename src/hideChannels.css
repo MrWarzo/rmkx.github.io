@@ -8,7 +8,6 @@
  */
 
 :root {
-	--background-image: url(https://www.zupimages.net/up/22/01/45dg.png); /*Changes the background image*/
     --server-hiding-width: 2.5%; /*Amount that will be shown when the channels panel hide | Default 2.5%*/
     --showing-width: 13.5%; /*Amount that will be shown when the panels show | Default 13.5%*/
     --transition-speed: 0.35s; /*Changes the transition speed*/
