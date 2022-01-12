@@ -8,10 +8,10 @@
  * @version      1.0.2
  */
 
-@import url('https://raw.githubusercontent.com/MrWarzo/rmkx.github.io/main/src/hideGuilds.css'); /*Comment line if you don't want servers list to hide | This moves it to the default position (you need to set its bg to transparent*/
-@import url('https://raw.githubusercontent.com/MrWarzo/rmkx.github.io/main/src/hideMembers.css'); /*Comment line if you don't want servers' members to hide*/
-@import url('https://raw.githubusercontent.com/MrWarzo/rmkx.github.io/main/src/hideChannels.css'); /*Comment line if you don't want servers' channels to hide*/
-@import url('https://raw.githubusercontent.com/MrWarzo/rmkx.github.io/main/Boreal/src/boreal.css'); /*Main CSS sheet*/
+@import url('https://rawcdn.githack.com/MrWarzo/rmkx.github.io/75dc9e8540a307f4232fdc9f343043aa06af1bc8/src/hideGuilds.css'); /*Comment line if you don't want servers list to hide | This moves it to the default position (you need to set its bg to transparent*/
+@import url('https://rawcdn.githack.com/MrWarzo/rmkx.github.io/75dc9e8540a307f4232fdc9f343043aa06af1bc8/src/hideMembers.css'); /*Comment line if you don't want servers' members to hide*/
+@import url('https://rawcdn.githack.com/MrWarzo/rmkx.github.io/75dc9e8540a307f4232fdc9f343043aa06af1bc8/src/hideChannels.css'); /*Comment line if you don't want servers' channels to hide*/
+@import url('https://rawcdn.githack.com/MrWarzo/rmkx.github.io/75dc9e8540a307f4232fdc9f343043aa06af1bc8/Boreal/src/boreal.css'); /*Main CSS sheet*/
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap'); /*Put your font url here*/
 
 ::-webkit-input-placeholder, body, button, input, select, textarea {

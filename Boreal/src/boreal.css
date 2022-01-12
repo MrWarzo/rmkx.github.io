@@ -8,9 +8,9 @@
  * @version      1.0.2
  */
 
-@import url('https://raw.githubusercontent.com/MrWarzo/rmkx.github.io/main/src/transparentDiscord.css');
-@import url('https://raw.githubusercontent.com/MrWarzo/rmkx.github.io/main/src/settingsIcons.css');
-@import url('https://raw.githubusercontent.com/MrWarzo/rmkx.github.io/main/src/customBadges.css');
+@import url('https://rawcdn.githack.com/MrWarzo/rmkx.github.io/75dc9e8540a307f4232fdc9f343043aa06af1bc8/src/transparentDiscord.css');
+@import url('https://rawcdn.githack.com/MrWarzo/rmkx.github.io/75dc9e8540a307f4232fdc9f343043aa06af1bc8/src/settingsIcons.css');
+@import url('https://rawcdn.githack.com/MrWarzo/rmkx.github.io/75dc9e8540a307f4232fdc9f343043aa06af1bc8/src/customBadges.css');
 
 :root {
     --server-hiding-width: 2.5%; /*Amount that will be shown when the channels panel hides | Default 50px*/
