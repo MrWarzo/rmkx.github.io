@@ -1,4 +1,5 @@
 :root {
+	--background-image: url(https://www.zupimages.net/up/22/01/45dg.png); /*Changes the background image*/
     --icon-padding: 35px; /*Changes the padding between the icon and the text | Default 35px*/
 }
 

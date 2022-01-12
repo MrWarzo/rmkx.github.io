@@ -8,7 +8,7 @@
  */
 
 :root {
-    --background-image: unset; /*Changes the background image*/
+    --background-image: url(https://www.zupimages.net/up/22/01/45dg.png); /*Changes the background image*/
     --bg-blur: 0px; /*Amount of blur on the background*/
     --bg-opacity: 1; /*Background opacity*/
     --bg-main-panels: rgba(0,0,0,0); /*Changes the transparency of the main panels, modify the "y" on the rgba (x,x,x,y)*/

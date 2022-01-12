@@ -8,6 +8,7 @@
  */
 
 :root {
+	--background-image: url(https://www.zupimages.net/up/22/01/45dg.png); /*Changes the background image*/
     --members-hiding-width: 2.9%; /*Amount that will be shown when the server's members panel hides | Default 2.9%*/
     --showing-width: 13.5%; /*Amount that will be shown when the panels show | Default 13.5%*/
     --hidden-background: transparent; /*Background of the elements when hidden*/
